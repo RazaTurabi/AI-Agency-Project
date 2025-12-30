@@ -1,0 +1,11 @@
+.card{
+    --_speed: 140000ms;
+    --_direction: forwards;
+    --_gap: 0px;
+    opacity: 1;
+    filter: blur(0px);
+    translate: none;
+    rotate: none;
+    scale: none;
+    transform: translate(0px, 0px);
+}
